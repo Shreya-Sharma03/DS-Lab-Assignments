@@ -116,6 +116,6 @@ int main()
     multiply(A, B, PROD);
     cout << "\nA * B:\n";
     print(PROD);
-
     return 0;
 }
+
